@@ -19,8 +19,8 @@
       "required": false
     },
     "ADMIN_ID": {
-      "description": "admin id",
-      "value": "Tu id, para que puedas recibir y enviar mensajes.",
+      "description": "Tu id, para que puedas recibir y enviar mensajes.",
+      "value": "",
       "required": true
     }
   },
