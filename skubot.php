@@ -10,7 +10,6 @@ if (file_exists(__DIR__ . '/.env')) {
 }
 
 if (file_exists(__DIR__ . '/language/default.json')) {
-    $name = ['update']['message']['from']['id'];
 	$LANG = json_decode(file_get_contents("./language/ES.json"), true);
 } else {
     $LANG = json_decode('{
