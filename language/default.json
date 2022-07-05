@@ -1,6 +1,6 @@
 {
-    "START": "Hi, You can message my owner with this bot. You can send any media. My owner will reply ur message ASAP!",
+    "START": "Hi, you can message my owner with this bot. My owner will answer your message as soon as possible!\nMade with ❤️ by [Skueletor](https://telegram.me/DKzippO)",
     "ERROR_REPLY": "*Please reply an message.*",
-    "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
+    "ERROR_NOTFOUND": "*Message not found in database. Can't reply...*",
     "SENDER": "*Sender:*"
 }
