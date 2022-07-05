@@ -1,6 +1,6 @@
 {
-    "START": "Hola, puedes enviar un mensaje a mi propietario con este bot. Puede enviar cualquier medio. ¡Mi propietario responderá tu mensaje lo antes posible!",
-    "ERROR_REPLY": "*Responde un mensaje.*",
-    "ERROR_NOTFOUND": "*Mensaje no encontrado en la base de datos. No puedo responder.*",
+    "START": "Hola [👋](https://te.legra.ph/file/9d8ed29730e244f147301.jpg), puedes enviar un mensaje a mi propietario con este bot. ¡Mi propietario responderá tu mensaje lo antes posible!\nHecho con ❤️ por [Skueletor](https://telegram.me/DKzippO)",
+    "ERROR_REPLY": "*Debes responder un mensaje.*",
+    "ERROR_NOTFOUND": "*Mensaje no encontrado en la base de datos. No puedo responder...*",
     "SENDER": "Remitente:"
 }
