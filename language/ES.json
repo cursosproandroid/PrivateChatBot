@@ -1,0 +1,6 @@
+{
+    "START": "Hola, puedes enviar un mensaje a mi propietario con este bot. Puede enviar cualquier medio. ¡Mi propietario responderá tu mensaje lo antes posible!",
+    "ERROR_REPLY": "*Responde un mensaje.*",
+    "ERROR_NOTFOUND": "*Mensaje no encontrado en la base de datos. No puedo responder.*",
+    "SENDER": "Remitente:"
+}
