@@ -1,0 +1,32 @@
+{
+  "name": "PrivateChatBot",
+  "description": "Clon de livegram xd",
+  "keywords": [
+    "telegram",
+    "bot",
+    "php"
+  ],
+  "repository": "https://github.com/CursosProAndroid/PrivateChatBot",
+  "logo": "https://te.legra.ph/file/9d8ed29730e244f147301.jpg",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Token del bot",
+      "required": true
+    },
+    "DB_TUR": {
+      "description": "No edites nada aquí",
+      "value": "db",
+      "required": false
+    },
+    "ADMIN_ID": {
+      "description": "admin id",
+      "value": "Tu id, para que puedas recibir y enviar mensajes.",
+      "required": true
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
+}
